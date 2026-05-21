@@ -1,1 +1,3 @@
-print('hello Git')
+print('Hello Git')
+a=100
+print(a)
